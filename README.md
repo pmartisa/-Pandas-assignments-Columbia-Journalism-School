@@ -1,2 +1,2 @@
-# Assignment Homework 06
- Cleaning data with pandas
+# Pandas-assignments-Columbia-Journalism-School
+ Analyzing data with Pandas for Columbia Journalism School's master of science in Data Journalism.
